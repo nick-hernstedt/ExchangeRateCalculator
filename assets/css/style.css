@@ -67,10 +67,6 @@ p {
   text-align: right;
 }
 
-input[type="number"] {
-  -moz-appearance: textfield;
-}
-
 .swap-rate-container {
   display: flex;
   align-items: center;
