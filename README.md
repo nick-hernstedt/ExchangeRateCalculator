@@ -8,9 +8,10 @@ This exchange rate calculator is a website that aims to inform. It does the foll
 - provides the rate of exchange from the first selected country to the amount it would be worth in the second selected country
 
 ## Technologies
-HTML
-CSS 
-JavaScript
+- Responsive Design
+- HTML
+- CSS 
+- JavaScript
 
 
 ## APIs
