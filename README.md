@@ -1,6 +1,9 @@
 # Exchange Rate Calculator
 "An app to show the exchange rate of money between two different places"
 
+## Site URL
+https://nick-hernstedt.github.io/ExchangeRateCalculator/
+
 ## What it is
 This exchange rate calculator is a website that aims to inform. It does the following:
 - allows the user to select two different countrys
