@@ -4,14 +4,16 @@
 ## Site URL
 https://nick-hernstedt.github.io/ExchangeRateCalculator/
 
+##
+![Picture of site](./assets/images/exchange.png)
+
 ## What it is
 This exchange rate calculator is a website that aims to inform. It does the following:
 - allows the user to select two different countrys
 - allows the user to choose how much money they would like to see the exchange rate for
 - provides the rate of exchange from the first selected country to the amount it would be worth in the second selected country
 
-##
-![Picture of site](./assets/images/exchange.png)
+
 
 ## Technologies
 - Responsive Design
